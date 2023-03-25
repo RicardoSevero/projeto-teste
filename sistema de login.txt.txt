@@ -1,1 +1,3 @@
 testanu merge
+digite a idade
+digite o nome
